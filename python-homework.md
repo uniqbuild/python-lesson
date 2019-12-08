@@ -8,7 +8,7 @@
 ex>
 ```
 s = 'hello world'
-s의 substring 'world'를 찾으면 w의 index `6`을 리턴하는 함수를 작성하면 됩니다.
+s의 substring 'world'를 찾으면 w의 index 6을 리턴하는 함수를 작성하면 됩니다.
 substring이 존재하지 않는다면 -1을 리턴합니다.
 ```
 
