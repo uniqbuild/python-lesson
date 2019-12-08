@@ -19,7 +19,7 @@ substring이 존재하지 않는다면 -1을 리턴합니다.
 
 **DataManager class 생성**
 
-Push 메소드를 통해 string, int, array ... 모든 타입을 입력받고 순서대로 저장합니다.
-Get 메소드는 index를 인자로 받고 특정 index에 데이터가 없을 경우 exception을 raise 합니다.
-Pop 메소드는 인자는 없고 가장 최근에 추가된 값을 리턴합니다. 없으면 null을 리턴합니다.
-GetAll 메소드는 저장된 모든 값을 리턴합니다.
+Push 메소드를 통해 string, int, array ... 모든 타입을 입력받고 순서대로 저장합니다.  
+Get 메소드는 index를 인자로 받고 특정 index에 데이터가 없을 경우 exception을 raise 합니다.  
+Pop 메소드는 인자는 없고 가장 최근에 추가된 값을 리턴합니다. 없으면 null을 리턴합니다.   
+GetAll 메소드는 저장된 모든 값을 리턴합니다.  
